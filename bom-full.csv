@@ -1,0 +1,25 @@
+refs,desc,jlcpcb,jlctype,jlcpcb_fp,digikey,notes
+C1-7,10uF,C96446,basic,603,,"X5R, only option in basic"
+C8-14,2.2uF,C23630,basic,603,,"X5R, C50254 for X7R but in 1206"
+C15-22,100nF,C1525,basic,402,,ok
+C23-25,22nF,C1532,basic,402,,ok
+C26-27,2.2nF,C28260,basic,805,,"C0G, but note size"
+C28,1nF,C161523,extended,402,,Needs to be C0G. See C1523 for X7R
+FB1,GZ2012D601TF Ferrite,C1017,basic,805,,
+J1,1x4 2.54mm Pins,n/a,,,,
+J2,4 pin JST SH Socket,C160404,extended,DNP,455-1804-1-ND,
+J3,Analog Audio,n/a,,,WM4902-ND,
+J4,Digital Audio,n/a,,,WM4900-ND,
+J5-6,1x2 2.54mm Pins,n/a,,,,
+J7,2 pin JST SH Socket,C160402,extended,DNP,455-1802-1-ND,
+R1-8,47Kohm 0402,C25792,basic,402,,
+R9,3Kohm 0603,C4211,basic,603,,0402 not available in basic
+R10,10Kohm 0402,C25744,basic,402,,
+R12-16,22ohm 0402,C25092,basic,402,,
+R17-19,470ohm 0402,C25117,basic,402,,
+U1,CS8416-CZZR,C11163,extended,TSSOP-28,,
+U2,PCM5101APWR,C2667024,extended,TSSOP-20,,
+U3,SD6210A,C250809,extended,SOT-23-6,,
+U4-5,XC6206P332MR,C5446,basic,SOT-23-3L,,
+U6,MAX809TEUR+T,C16711,extended,SOT-23,,most SOT-23-3 ‘809T' options OK
+-,Standoffs,n/a,,,36-24338-ND,
