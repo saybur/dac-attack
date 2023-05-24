@@ -7,7 +7,7 @@ The intended use case is with some versions of
 [ZuluSCSI](https://zuluscsi.com/), though the design should work with any
 S/PDIF compatible output source generating a TTL-compatible signal.
 
-![Rendering of the front and back of a DAC Attack 2022c board](images/dac-attack-render.jpg)
+![Rendering of the front and back of a DAC Attack 2022c board](images/dac-attack-render.png)
 
 Used with a compatible board, and the appropriate firmware, this allows sending
 audio to a retro computer. See later sections for usage information.
