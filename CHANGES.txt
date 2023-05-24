@@ -1,0 +1,11 @@
+DESIGN CHANGES
+
+Refer to section 3.3.b of the license for information that must be included in
+this document.
+
+- 14 May 2023, rev 2023b: first functional design
+
+- 24 May 2023, rev 2023c: minor layout changes:
+    - updated silkscreen to include link to repository; labeled modular
+      connector.
+    - shifted mounting holes to ease installation on compact board variants.
