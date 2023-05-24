@@ -22,4 +22,10 @@ U2,PCM5101APWR,C2667024,extended,TSSOP-20,,
 U3,SD6210A,C250809,extended,SOT-23-6,,
 U4-5,XC6206P332MR,C5446,basic,SOT-23-3L,,
 U6,MAX809TEUR+T,C16711,extended,SOT-23,,most SOT-23-3 ‘809T' options OK
--,Standoffs,n/a,,,36-24338-ND,
+,,,,,,
+optional components,,,,,,
+-,2x2 2.54mm Socket,,,,S7105-ND,
+-,1x4 2.54mm Socket,,,,S7038-ND,
+-,Modular Cable,,,,1528-4210-ND,
+-,Modular Cable w/ Pins,,,,1568-1709-ND,
+-,Hex Standoffs (10mm),,,,36-24337-ND,See 1528-2339-ND for more options.
