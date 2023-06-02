@@ -52,7 +52,7 @@ straightforward. The choice of what connectors to solder is up to the user:
   you do not want to use the modular connector. See the later section for
   hookup information.
 
-Part numbers for through-hole parts are in [bom_full.csv](bom_full.csv).
+Part numbers for through-hole parts are in [bom-full.csv](bom-full.csv).
 
 Installation
 ------------
