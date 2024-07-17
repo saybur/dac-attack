@@ -43,8 +43,8 @@ straightforward. The choice of what connectors to solder is up to the user:
 - 'analog' provides standard line-level output for sending to a sound card.
 - 'digital' provides TTL-level S/PDIF from the CS8416 chip, which should
   _theoretically_ be suitable for sending to a sound card with a digital-in
-  connector, those this use case is NOT TESTED. If you successfully use this
-  feature please report it as a PR to this README :)
+  connector, ~~those this use case is NOT TESTED~~ florian3 on Vogons reports
+  this is working fine, thanks for testing!
 - 'ext button' provides a place to attach a button for the **B_READ** line.
 - 'user' is connected to the U pin of the CS8416. This feature is not tested
   and this pad can be left vacant.
